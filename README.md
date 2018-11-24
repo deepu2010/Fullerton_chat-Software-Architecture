@@ -10,7 +10,40 @@ Our Professor was our customer, and we are given the following constraints for o
 4. Our application shall help two users to send or receive text, video and voice messages
 5. Messages should be secured. 
 
-Description:
+# Description:
 We created a new software architecture for fullerton_chat system, which helps the student and staffs to communicate with each other through instant messaging platform.
 
-Simple Context Diagram of our Fchat System:
+# Simple Context Diagram of our Fchat System:
+![Context Diagram](https://raw.githubusercontent.com/deepu2010/Fullerton_chat-Software-Architecture/master/Fchat%20context%20diagram.JPG)
+
+# Key activities in our project:
+1. Requirements Gathering
+2. Quality Assurance Workshop(QAW)
+3. Implementing Attribute Driven Desgin version 2.0(ADD v2.0) methodology for designing our architecture
+4. Implementing patterns for various components in Fchat
+5. Documenting our architecture
+
+# Architecture Design approaches:
+
+We have built a customized sofware architecture with multiple software patterns. 
+
+- The main pattern we used to build our application is **'CLIENT - SERVER PATTERN'**
+- We decomposed the **'SERVER ELEMENT'** with **'MULTI-TIER PATTERN'** by analyzing pros. and cons. table from QAW
+- We then decomposed the client element with **'MODEL-VIEW-CONTROLLER'** pattern
+
+
+# Our Overall Architecture:
+
+![Fchat](https://raw.githubusercontent.com/deepu2010/Fullerton_chat-Software-Architecture/master/Server%20Side%20Architecture%20of%20Fchat.JPG)
+
+
+# Skills Learned:
+
+1. Requirement Documentation
+2. Quality Assurance Workshop for deciding the architecture design patterns
+3. Attribute Driven Design (ADD 2.0) hands-on implementation
+4. Architecting Server element and client element
+5. Architecture Documentation
+
+
+
