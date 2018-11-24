@@ -16,6 +16,11 @@ We created a new software architecture for fullerton_chat system, which helps th
 # Simple Context Diagram of our Fchat System:
 ![Context Diagram](https://raw.githubusercontent.com/deepu2010/Fullerton_chat-Software-Architecture/master/Fchat%20context%20diagram.JPG)
 
+# Decomposed Server Element
+![Server](https://raw.githubusercontent.com/deepu2010/Fullerton_chat-Software-Architecture/master/Server%20element.JPG)
+
+#Decomposed Client Element
+![Client](https://raw.githubusercontent.com/deepu2010/Fullerton_chat-Software-Architecture/master/client%20element.JPG)
 # Key activities in our project:
 1. Requirements Gathering
 2. Quality Assurance Workshop(QAW)
