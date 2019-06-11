@@ -1,6 +1,9 @@
 # Fullerton_chat-Software-Architecture
 
-This project is part of my academics. We are instructed to build a software architecture for a chat application like WhastApp. Our target audience for the application was the students and Faculties of Cal State Fullerton. 
+This project is part of my graduate course **CPSC 545 - Software Architecture and Design** guided by **Dr.Chang-Hyun Jo**. We are instructed to build a software architecture for a chat application like WhastApp. Our target audience for the application was the students and Faculties of Cal State Fullerton. 
+
+We followed **Attribute Driven Design Methodology (V2.0)** for selecting the exact software architecture patterns and to implement the design. Attribute-driven design is a methodology to create software architectures that takes into account the quality attributes of the software
+
 
 # Customer Constraints:
 Our Professor was our customer, and we are given the following constraints for our software. Our constraints are,
@@ -11,7 +14,7 @@ Our Professor was our customer, and we are given the following constraints for o
 5. Messages should be secured. 
 
 # Description:
-We created a new software architecture for fullerton_chat system, which helps the student and staffs to communicate with each other through instant messaging platform.
+We created a new software architecture for **fullerton_chat (similar to whatsapp) system**, which helps the student and staffs to communicate with each other through instant messaging platform.
 
 # Simple Context Diagram of our Fchat System:
 ![Context Diagram](https://raw.githubusercontent.com/deepu2010/Fullerton_chat-Software-Architecture/master/Fchat%20context%20diagram.JPG)
